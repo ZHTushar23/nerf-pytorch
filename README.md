@@ -26,6 +26,8 @@ pip install -r requirements.txt
   - imageio
   - imageio-ffmpeg
   - configargparse
+  - tqdm
+  - opencv-python
   
 The LLFF data loader requires ImageMagick.
 
